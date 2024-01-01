@@ -1,0 +1,20 @@
+# Java
+*.class
+*.war
+*.ear
+*.jar
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+
+# NetBeans
+nbproject/
+dist/
+nbdist/
+build/
